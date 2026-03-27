@@ -89,8 +89,7 @@ If you have questions or concerns about this privacy policy, or if you would lik
 [azeltzdev@gmail.com]
 
 
-
-
+# About SimpleNews
 
 SimpleNews is a personal news aggregator for iOS and Apple Watch. It fetches articles from 20+ public RSS feeds via a Cloudflare Workers backend, enriches them with on-device ML classification and AI summarization, and presents a scored, personalized feed.
 
