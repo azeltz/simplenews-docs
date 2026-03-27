@@ -91,10 +91,4 @@ If you have questions or concerns about this privacy policy, or if you would lik
 
 # About SimpleNews
 
-SimpleNews is a personal news aggregator for iOS and Apple Watch. It fetches articles from 20+ public RSS feeds via a Cloudflare Workers backend, enriches them with on-device ML classification and AI summarization, and presents a scored, personalized feed.
-
-The app requires network access to fetch articles. The watch companion displays headlines and supports save/unsave. The widget shows the latest headlines on the home screen and lock screen. Watch complications show condensed headlines on watch faces.
-
-No login is required. A random device UUID is used for per-user feed personalization — no personal information is collected.
-
-The "Social" tab embeds Instagram, Reddit, and LinkedIn in WKWebViews for quick access — these are standard web views, not custom browsers.
+SimpleNews is a privacy-focused news aggregator that brings articles from your favorite sources into one clean, personalized feed. All article tagging, ranking, and AI summaries are powered by on-device intelligence — your reading habits never leave your phone. No ads, no tracking, no accounts. Just your news, your way.
